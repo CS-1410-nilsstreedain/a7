@@ -67,6 +67,7 @@ public class MovieReviewPredictor {
 			lines.add(line);
 		}
 		s.close();
+		
 		return lines;
 	}
 
